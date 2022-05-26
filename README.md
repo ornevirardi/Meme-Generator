@@ -4,8 +4,7 @@ Meme generator made with React
 
 # Demo
 
-https://scrimba.com/scrim/cdgrE8tk
-
+https://memegeneratorov.netlify.app/
 
 ## Dependencies:
 
